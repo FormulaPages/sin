@@ -2,7 +2,7 @@
 
 ![CircleCI](https://circleci.com/gh/FormulaPages/sin.svg?style=shield&circle-token=:circle-token)
 
-Calculate sin 
+Calculate sine 
 
 ## Syntax
 

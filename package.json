@@ -1,6 +1,6 @@
 {
   "name": "formula-sin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SIN function",
   "main": "SIN.js",
   "scripts": {
