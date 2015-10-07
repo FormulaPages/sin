@@ -1,0 +1,24 @@
+{
+  "name": "formula-sin",
+  "version": "1.0.0",
+  "description": "SIN function",
+  "main": "SIN.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "babel SIN.es6 -m umd --out-file SIN.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/sin.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/sin/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/sin#readme",
+  "dependencies": {
+    "formula-errors": "^1.0.2",
+    "formula-isnumber": "^1.0.1"
+  }
+}
