@@ -4,8 +4,7 @@
   "description": "SIN function",
   "main": "SIN.js",
   "scripts": {
-    "test": "mocha test",
-    "build": "babel SIN.es6 -m umd --out-file SIN.js"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
